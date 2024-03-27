@@ -1,0 +1,6 @@
+@wxWebApi_HostAddress = http://http://192.168.31.193:5001
+
+GET {{wxWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
